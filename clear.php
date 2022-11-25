@@ -16,6 +16,7 @@
             <div class="col-10">
                 <h1><i class="fa fa-store"></i>Online Sneaker Store</h1>
             </div>
+            
             <div class="col-2 text-right">
                 <a href="cart.php" class="btn btn-primary">
                     <i class="fa fa-shopping-cart"></i> Cart

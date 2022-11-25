@@ -24,7 +24,7 @@
 <body>
     <form method="post">
         <div class="container">
-            <div class="row mt-5">
+            <div class="row mt-5"> 
                 <div class="col-10">
                     <h1><i class="fa fa-store"></i>Online Sneaker Store</h1>
                 </div>
@@ -60,9 +60,9 @@
                         <p><?php echo $arrProducts[$_GET['k']]['description']; ?></p>                    
                             <hr>
 
-                        <input type="hidden" name="hdnKey" value="<?php echo $_GET['k']; ?>">
-                        <input type="hidden" name="hdnSize" value="<?php echo $_GET['s']; ?>">
-                        <input type="hidden" name="hdnQuantity" value="<?php echo $_GET['q']; ?>">
+                                <input type="hidden" name="hdnKey" value="<?php echo $_GET['k']; ?>">
+                                <input type="hidden" name="hdnSize" value="<?php echo $_GET['s']; ?>">
+                                <input type="hidden" name="hdnQuantity" value="<?php echo $_GET['q']; ?>">
 
                         <h3 class="title">Size: <?php echo $_GET['s']; ?></h3>                        
                              <hr>

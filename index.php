@@ -44,7 +44,7 @@
                                     <img class="pic-2" src="img/<?php echo $product['photo2']; ?>">
                                 </a>                        
                                 <a class="add-to-cart" href="details.php?k=<?php echo $key; ?>"><i class="fa fa-cart-plus"></i> Add to cart</a>
-                            </div>
+                            </div> 
                             <div class="product-content">
                                 <h3 class="title">
                                     <?php echo $product['name']; ?>

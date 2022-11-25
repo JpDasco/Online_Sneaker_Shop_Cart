@@ -10,7 +10,7 @@
             $_SESSION['cartItems'][$_POST['hdnKey']][$_POST['radSize']] = $_POST['txtQuantity']; 
 
         $_SESSION['totalQuantity'] += $_POST['txtQuantity'];
-        header("location: confirm.php");
+        header("location: confirm.php"); 
     }
 
 ?>
@@ -33,6 +33,7 @@
                 <div class="col-10">
                     <h1><i class="fa fa-store"></i>Online Sneaker Store</h1>
                 </div>
+                
                 <div class="col-2 text-right">
                     <a href="cart.php" class="btn btn-primary">
                         <i class="fa fa-shopping-cart"></i> Cart
