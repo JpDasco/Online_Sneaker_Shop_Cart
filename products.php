@@ -4,7 +4,7 @@
             'name'          => "Nike Airmax 1 ATMOS Elephant",
             'description'   => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dignissim vulputate tortor, sed ornare dui pharetra sed. Aliquam posuere eleifend eros nec aliquam. Aliquam ac risus a tellus mollis ultrices. Mauris tellus felis, luctus id metus nec, tristique molestie neque.",
             'price'         => "6000",
-            'photo1'        => "airmax1atmos.jpg",
+            'photo1'        => "airmax1atmos1.jpg",
             'photo2'        => "airmax1atmos2.jpg"
         ),
         array(
@@ -32,14 +32,14 @@
             'name'          => "Air Jordan 1 High Travis Scott",
             'description'   => "Nullam pharetra sit amet lectus eu mattis. Cras nec blandit massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur volutpat, velit eu bibendum aliquet, justo justo sodales ligula, sit amet fermentum velit est id sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras eget scelerisque dui.",
             'price'         => "16500",
-            'photo1'        => "jordan1hightravis.jpg",
+            'photo1'        => "jordan1hightravis1.jpg",
             'photo2'        => "jordan1hightravis2.jpg",
         ),
         array(
             'name'          => "Air Jordan VI Retro Cactus",
             'description'   => "Maecenas gravida viverra felis, in rutrum dolor. Nam pharetra mollis urna, eu sagittis odio luctus quis. Pellentesque vulputate arcu purus, non tincidunt ligula rutrum ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc et nibh sed massa vulputate sagittis. Fusce sit amet odio ut dui auctor venenatis eu non leo. ",
             'price'         => "13000",
-            'photo1'        => "jordan6travis.jpg",
+            'photo1'        => "jordan6travis1.jpg",
             'photo2'        => "jordan6travis2.jpg",
         ),
         array(
@@ -53,7 +53,7 @@
             'name'          => "Airmax 1/97 Sean Wotherspoon",
             'description'   => "Aenean tincidunt mattis eros, non venenatis felis suscipit eu. Fusce a tempus nulla. Cras pretium purus augue, ut semper arcu pulvinar sit amet. Nam et est consectetur, mollis mi nec, pharetra nibh. Sed malesuada pellentesque ipsum, vel congue purus. Mauris eget velit vel metus ullamcorper lacinia. Sed in vestibulum erat.",
             'price'         => "12000",
-            'photo1'        => "airmax1seanwother.jpg",
+            'photo1'        => "airmax1seanwother1.jpg",
             'photo2'        => "airmax1seanwother2.jpg",
         )
     );
